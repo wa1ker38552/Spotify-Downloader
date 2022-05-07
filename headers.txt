@@ -1,0 +1,16 @@
+accept: application/json
+accept-encoding: gzip, deflate, br
+accept-language: en
+app-platform: WebPlayer
+authorization: 
+content-type: application/json;charset=UTF-8
+origin: https://open.spotify.com
+referer: https://open.spotify.com/
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-site
+spotify-app-version: 1.1.86.55.ge92a19c5
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
